@@ -41,22 +41,22 @@
 <p align="center">
   <a href="https://soham-ganguly.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>&nbsp;
+  </a>&#160;
   <a href="https://www.linkedin.com/in/soham-ganguly/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
+  </a>&#160;
   <a href="https://x.com/sAm7thehellboy" target="_blank">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>&nbsp;
+  </a>&#160;
   <a href="https://www.instagram.com/gaming_talentninja/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>&nbsp;
+  </a>&#160;
   <a href="https://www.facebook.com/soham.ganguly2/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>&nbsp;
+  </a>&#160;
   <a href="mailto:sree.soham@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>&nbsp;
+  </a>&#160;
   <a href="https://www.credly.com/users/soham-ganguly" target="_blank">
     <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
   </a>
@@ -218,10 +218,10 @@ A migration tool focusing on **modernizing legacy COBOL** codebases by convertin
 <p align="center">
   <a href="https://media.licdn.com/dms/image/v2/D4E22AQGS3b_JxENCdA/feedshare-shrink_1280/B4EZcXO1ONHQAw-/0/1748441454632" target="_blank">
     <img src="https://img.shields.io/badge/NVIDIA-GSI_Curriculum_2025-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
-  </a>&nbsp;
+  </a>&#160;
   <a href="https://www.credly.com/badges/229f65cc-5ed4-44eb-96fe-ee47016f32b8" target="_blank">
     <img src="https://img.shields.io/badge/Google_Cloud-Generative_AI_Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  </a>&nbsp;
+  </a>&#160;
   <a href="https://www.credly.com/badges/e230a1d7-8eb9-446b-8166-9e8fcee0e963/public_url" target="_blank">
     <img src="https://img.shields.io/badge/AWS-Quantum_Computing_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   </a>
@@ -241,7 +241,7 @@ A migration tool focusing on **modernizing legacy COBOL** codebases by convertin
 <!-- Stats + Top Languages Side by Side -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuccessSoham&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="49%" />
-  &nbsp;&nbsp;
+  &#160;&#160;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuccessSoham&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="41%" />
 </p>
 
@@ -291,9 +291,9 @@ A migration tool focusing on **modernizing legacy COBOL** codebases by convertin
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SuccessSoham&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  &nbsp;&nbsp;
+  &#160;&#160;
   <img src="https://img.shields.io/github/followers/SuccessSoham?style=for-the-badge&color=58A6FF&labelColor=0D1117" alt="Followers" />
-  &nbsp;&nbsp;
+  &#160;&#160;
   <img src="https://img.shields.io/github/stars/SuccessSoham?style=for-the-badge&color=58A6FF&labelColor=0D1117" alt="Stars" />
 </p>
 
